@@ -1,7 +1,7 @@
 # How to report issues
 
 Before reporting an issue with GitHub, be sure that:
-* you are using the git version of radare2
+* you are using the latest available release of radare2
 * you are using a clean installation
 * the issue was not already reported
 
